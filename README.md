@@ -3,7 +3,7 @@ Open Adventure - Pocket Quest ![pocket quest logo][PQlogo]
 
 The revolutionary **Open Adventure** rules condensed into a single sheet of paper (printed duplex). The entire game (including equipment, magic, game master rules, etc.) can be played with six sheets of rules total. Pocket Quest aims to allow for OA to be played when few resources, time or rules are available.
 
-![basic rulebook][OAproduct]
+![pocket quest][PQproduct]
 
 Features and Philosophy
 ==================
@@ -66,7 +66,7 @@ If this project has captured your imagination, or you find yourself wanting to k
 
 The official website can be visited at: [http://geekguild.com/openadventure/][OAwebsite]
 
-[OAproduct]: http://www.geekguild.com/openadventure/images/basic_rulebook_product_shot_0.jpg
+[PQproduct]: http://www.geekguild.com/openadventure/images/pocket_quest2.png
 [PQlogo]: http://www.geekguild.com/openadventure/images/pocket_quest_logo.png
 [googleplus]: https://plus.google.com/u/0/communities/112108732479175981421
 [lotr]: https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
