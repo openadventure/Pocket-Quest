@@ -1,7 +1,7 @@
-Open Adventure - Game System ![pocket quest logo][PQlogo]
+Open Adventure - Pocket Quest ![pocket quest logo][PQlogo]
 ==================
 
-**Open Adventure** is a full-featured tabletop [adventure game][adventuregame] that offers out-of-box support for medieval fantasy and science-fiction expeditions. In **Open Adventure**, you play as a heroic or villainous figure free to explore the perilous world created by the all-mighty Game Master. Along your adventure you'll battle ferocious enemies, solve complex puzzles and navigate labyrinthine mazes, and much more!
+The revolutionary **Open Adventure** rules condensed into a single sheet of paper (printed duplex). The entire game (including equipment, magic, game master rules, etc.) can be played with six sheets of rules total. Pocket Quest aims to allow for OA to be played when few resources, time or rules are available.
 
 ![basic rulebook][OAproduct]
 
@@ -66,7 +66,6 @@ If this project has captured your imagination, or you find yourself wanting to k
 
 The official website can be visited at: [http://geekguild.com/openadventure/][OAwebsite]
 
-[adventuregame]: https://en.wikipedia.org/wiki/Adventure_game
 [OAproduct]: http://www.geekguild.com/openadventure/images/basic_rulebook_product_shot_0.jpg
 [PQlogo]: http://www.geekguild.com/openadventure/images/pocket_quest_logo.png
 [googleplus]: https://plus.google.com/u/0/communities/112108732479175981421
