@@ -33,7 +33,7 @@ Additional PQ-related products also exist to expand or augment the
 **Pocket Quest** game. The project files are:
 
 * [Rules][rules] - Contains six documents, with each document a double-sided print-and-play sheets of rules, including *Player Character Rules*, *Equipment*, *Magic & Psionics*, *Game Master Rules*, *Enemy NPCs*, *Treasures & Technology*, *Adventure Rules Expansion*. Also check out the 8-Bit Adventures expansion.
-* [8-Bit Adventures][8bitadventures] - A *Simple Text Adventure Game* (STAG) built completly off the *Pocket Quest* ruleset. 8BA uses a series of text files saved on your computer system to play a game similair to [MUD][mud] mixed with a [Choose Your Own Adventure][CYOA], [Roleplaying Game][RPG] and [Adventure Game][AG] elements. Played in a retro style.
+* [8-Bit Adventures][8bitadventures] - A *Simple Text Adventure Game* (STAG) built completly off the **Pocket Quest** ruleset. 8BA uses a series of text files saved on your computer system to play a game similair to [MUD][mud] mixed with a [Choose Your Own Adventure][CYOA], [Roleplaying Game][RPG] and [Adventure Game][AG] elements. Played in a retro style.
 
 Most, if not all, of these files are released under a Creative Commons Attribution-ShareAlike 3.0 or 4.0 license.
 
