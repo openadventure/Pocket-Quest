@@ -1,4 +1,4 @@
-Open Adventure - Game System ![open adventure logo][OAlogo]
+Open Adventure - Game System ![pocket quest logo][PQlogo]
 ==================
 
 **Open Adventure** is a full-featured tabletop [adventure game][adventuregame] that offers out-of-box support for medieval fantasy and science-fiction expeditions. In **Open Adventure**, you play as a heroic or villainous figure free to explore the perilous world created by the all-mighty Game Master. Along your adventure you'll battle ferocious enemies, solve complex puzzles and navigate labyrinthine mazes, and much more!
@@ -68,7 +68,7 @@ The official website can be visited at: [http://geekguild.com/openadventure/][OA
 
 [adventuregame]: https://en.wikipedia.org/wiki/Adventure_game
 [OAproduct]: http://www.geekguild.com/openadventure/images/basic_rulebook_product_shot_0.jpg
-[OAlogo]: http://www.geekguild.com/openadventure/images/mobileicon.png
+[PQlogo]: http://www.geekguild.com/openadventure/images/pocket_quest_logo.png
 [googleplus]: https://plus.google.com/u/0/communities/112108732479175981421
 [lotr]: https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
 [dnd]: https://en.wikipedia.org/wiki/Dungeons_%26_Dragons
