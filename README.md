@@ -33,7 +33,7 @@ Additional PQ-related products also exist to expand or augment the
 **Pocket Quest** game. The project files are:
 
 * [Rules][rules] - Contains six documents, with each document a double-sided print-and-play sheets of rules, including *Player Character Rules*, *Equipment*, *Magic & Psionics*, *Game Master Rules*, *Enemy NPCs*, *Treasures & Technology*, *Adventure Rules Expansion*. Also check out the 8-Bit Adventures expansion.
-* [8-Bit Adventures][8bitadventures] - A *Simple Text Adventure Game* built completly off the *Pocket Quest* ruleset. 8BA uses a series of text files saved on your computer system to play a game similair to [MUD][mud] mixed with a [Choose Your Own Adventure][CYOA], [Roleplaying Game][RPG] and [Adventure Game][AG] elements. Played in a retro style.
+* [8-Bit Adventures][8bitadventures] - A *Simple Text Adventure Game* (STAG) built completly off the *Pocket Quest* ruleset. 8BA uses a series of text files saved on your computer system to play a game similair to [MUD][mud] mixed with a [Choose Your Own Adventure][CYOA], [Roleplaying Game][RPG] and [Adventure Game][AG] elements. Played in a retro style.
 
 Most, if not all, of these files are released under a Creative Commons Attribution-ShareAlike 3.0 or 4.0 license.
 
@@ -62,7 +62,12 @@ The official website can be visited at: [http://geekguild.com/openadventure/][OA
 [PQproduct]: http://www.geekguild.com/openadventure/images/pocket_quest2.png
 [PQlogo]: http://www.geekguild.com/openadventure/images/pocket_quest_logo.png
 [googleplus]: https://plus.google.com/u/0/communities/112108732479175981421
+[mud]: https://en.wikipedia.org/wiki/MUD
+[CYOA]: https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure
+[RPG]: https://en.wikipedia.org/wiki/Role-playing_game
+[AG]: https://en.wikipedia.org/wiki/Adventure_game
 [OAwebsite]: http://geekguild.com/openadventure/
+[8bitadventures]: https://github.com/openadventure/Open-Adventure/tree/master/rulebook/pocket_quest/8-bit_adventures
 [rules]: https://github.com/kylemecklem/Pocket-Quest/tree/master/rules
 [FB]: https://www.facebook.com/openadventuregame
 [IRC]: http://webchat.freenode.net/?channels=openadventure
