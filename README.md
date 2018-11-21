@@ -67,7 +67,7 @@ The official website can be visited at: [http://geekguild.com/openadventure/][OA
 [RPG]: https://en.wikipedia.org/wiki/Role-playing_game
 [AG]: https://en.wikipedia.org/wiki/Adventure_game
 [OAwebsite]: http://geekguild.com/openadventure/
-[8bitadventures]: https://github.com/openadventure/Open-Adventure/tree/master/rulebook/pocket_quest/8-bit_adventures
+[8bitadventures]: https://github.com/openadventure/8-Bit-Adventures
 [rules]: https://github.com/kylemecklem/Pocket-Quest/tree/master/rules
 [FB]: https://www.facebook.com/openadventuregame
 [IRC]: http://webchat.freenode.net/?channels=openadventure
